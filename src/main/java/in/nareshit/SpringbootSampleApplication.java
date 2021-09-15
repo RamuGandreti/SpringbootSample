@@ -8,7 +8,7 @@ public class SpringbootSampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootSampleApplication.class, args);
-		System.out.println("@@@@@@###%&&&&&&&");
+		System.out.println("Welcome@@@@");
 	}
 
 }
